@@ -16,7 +16,7 @@ Decrypt this password -> then lower all the char. Sh256 on it and it's good !
 "
 - On passe le mdp dans un detecteur de hash puis dehasheur md5 -> FortyTwo
 - On suit le reste des consignes
-- Et hop, flag
+- Et hop flag
 
 
 ## Annexe

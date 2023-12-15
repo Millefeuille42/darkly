@@ -10,4 +10,4 @@ If you read this just use this md5 decode lowercase then sha256 to win this flag
 "
 - Apres avoir dehash on obtient: albatroz
 - On suit le reste des instructions
-- Et hop, flag
+- Et hop flag

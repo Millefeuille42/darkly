@@ -9,4 +9,4 @@
 - MD5: qwerty123@
 - On est allé sur la page `admin` (vu que ça fonctionnait pas sur la page de login)
 - On a mis les credentials `root` et `qwerty123@`
-- hop flag
+- Et hop flag

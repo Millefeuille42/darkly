@@ -7,7 +7,7 @@
 - On a changé le Content Type de la requete, rien
 - On a envoyé un jpeg avec de la fausse donnée, rien
 - On a envoyé un fichier PHP avec le content-type jpeg
-- Et hop, flag
+- Et hop flag
 
 ## Annexe
 

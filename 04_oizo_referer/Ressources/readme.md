@@ -10,4 +10,4 @@
     - Referer
     - User-Agent
 Avec les valeurs renseignées
-- Et puis hop flag (dans une balise h2)
+- Et hop flag
